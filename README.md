@@ -1,4 +1,4 @@
-# 🖩 Calculadora com Flet
+# 🖩  Calculadora com Flet
 
 Este é um projeto de **calculadora com interface gráfica**, desenvolvido em **Python** usando a biblioteca [Flet](https://flet.dev). 🎨🚀  
 
